@@ -23,7 +23,7 @@ namespace DelegateEvent
         {
             Console.WriteLine(item);
             Console.WriteLine("==============");
-            Console.WriteLine("==============");
+            
            
 
         }

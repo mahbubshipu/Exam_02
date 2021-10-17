@@ -1,0 +1,16 @@
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.exe
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.deps.json
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.runtimeconfig.json
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.runtimeconfig.dev.json
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.dll
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\ref\Task_01.dll
+E:\Work\ExamTwo\Exam_02\Exam_02\bin\Debug\net5.0\Task_01.pdb
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.csproj.AssemblyReference.cache
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.AssemblyInfoInputs.cache
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.AssemblyInfo.cs
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.csproj.CoreCompileInputs.cache
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.dll
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\ref\Task_01.dll
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.pdb
+E:\Work\ExamTwo\Exam_02\Exam_02\obj\Debug\net5.0\Task_01.genruntimeconfig.cache

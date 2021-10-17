@@ -1,0 +1,16 @@
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.exe
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.deps.json
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.runtimeconfig.json
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.runtimeconfig.dev.json
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.dll
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\ref\Task_11.dll
+E:\Work\Exam_02\Task_11\bin\Debug\net5.0\Task_11.pdb
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.csproj.AssemblyReference.cache
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.AssemblyInfoInputs.cache
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.AssemblyInfo.cs
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.csproj.CoreCompileInputs.cache
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.dll
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\ref\Task_11.dll
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.pdb
+E:\Work\Exam_02\Task_11\obj\Debug\net5.0\Task_11.genruntimeconfig.cache

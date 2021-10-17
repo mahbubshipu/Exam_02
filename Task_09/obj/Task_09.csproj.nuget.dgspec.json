@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\ExamTwo\\Exam_02\\Task_09\\Task_09.csproj": {}
+    "E:\\Work\\Exam_02\\Task_09\\Task_09.csproj": {}
   },
   "projects": {
-    "E:\\Work\\ExamTwo\\Exam_02\\Task_09\\Task_09.csproj": {
+    "E:\\Work\\Exam_02\\Task_09\\Task_09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\ExamTwo\\Exam_02\\Task_09\\Task_09.csproj",
+        "projectUniqueName": "E:\\Work\\Exam_02\\Task_09\\Task_09.csproj",
         "projectName": "Task_09",
-        "projectPath": "E:\\Work\\ExamTwo\\Exam_02\\Task_09\\Task_09.csproj",
+        "projectPath": "E:\\Work\\Exam_02\\Task_09\\Task_09.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\ExamTwo\\Exam_02\\Task_09\\obj\\",
+        "outputPath": "E:\\Work\\Exam_02\\Task_09\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

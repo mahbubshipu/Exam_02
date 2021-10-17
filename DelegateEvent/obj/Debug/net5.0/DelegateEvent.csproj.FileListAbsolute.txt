@@ -21,7 +21,6 @@ E:\Work\Exam_02\DelegateEvent\bin\Debug\net5.0\DelegateEvent.runtimeconfig.dev.j
 E:\Work\Exam_02\DelegateEvent\bin\Debug\net5.0\DelegateEvent.dll
 E:\Work\Exam_02\DelegateEvent\bin\Debug\net5.0\ref\DelegateEvent.dll
 E:\Work\Exam_02\DelegateEvent\bin\Debug\net5.0\DelegateEvent.pdb
-E:\Work\Exam_02\DelegateEvent\obj\Debug\net5.0\DelegateEvent.csproj.AssemblyReference.cache
 E:\Work\Exam_02\DelegateEvent\obj\Debug\net5.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Exam_02\DelegateEvent\obj\Debug\net5.0\DelegateEvent.AssemblyInfoInputs.cache
 E:\Work\Exam_02\DelegateEvent\obj\Debug\net5.0\DelegateEvent.AssemblyInfo.cs

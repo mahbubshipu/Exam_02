@@ -5,7 +5,6 @@ E:\Work\Exam_02\Task_09\bin\Debug\net5.0\Task_09.runtimeconfig.dev.json
 E:\Work\Exam_02\Task_09\bin\Debug\net5.0\Task_09.dll
 E:\Work\Exam_02\Task_09\bin\Debug\net5.0\ref\Task_09.dll
 E:\Work\Exam_02\Task_09\bin\Debug\net5.0\Task_09.pdb
-E:\Work\Exam_02\Task_09\obj\Debug\net5.0\Task_09.csproj.AssemblyReference.cache
 E:\Work\Exam_02\Task_09\obj\Debug\net5.0\Task_09.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Exam_02\Task_09\obj\Debug\net5.0\Task_09.AssemblyInfoInputs.cache
 E:\Work\Exam_02\Task_09\obj\Debug\net5.0\Task_09.AssemblyInfo.cs

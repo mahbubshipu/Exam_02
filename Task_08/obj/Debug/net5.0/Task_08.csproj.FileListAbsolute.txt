@@ -21,7 +21,6 @@ E:\Work\Exam_02\Task_08\bin\Debug\net5.0\Task_08.runtimeconfig.dev.json
 E:\Work\Exam_02\Task_08\bin\Debug\net5.0\Task_08.dll
 E:\Work\Exam_02\Task_08\bin\Debug\net5.0\ref\Task_08.dll
 E:\Work\Exam_02\Task_08\bin\Debug\net5.0\Task_08.pdb
-E:\Work\Exam_02\Task_08\obj\Debug\net5.0\Task_08.csproj.AssemblyReference.cache
 E:\Work\Exam_02\Task_08\obj\Debug\net5.0\Task_08.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Exam_02\Task_08\obj\Debug\net5.0\Task_08.AssemblyInfoInputs.cache
 E:\Work\Exam_02\Task_08\obj\Debug\net5.0\Task_08.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.exe
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.deps.json
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.runtimeconfig.json
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.runtimeconfig.dev.json
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.dll
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\ref\EventExamples.dll
+E:\Work\Exam_02\EventExamples\bin\Debug\net5.0\EventExamples.pdb
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.csproj.AssemblyReference.cache
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.AssemblyInfoInputs.cache
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.AssemblyInfo.cs
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.csproj.CoreCompileInputs.cache
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.dll
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\ref\EventExamples.dll
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.pdb
+E:\Work\Exam_02\EventExamples\obj\Debug\net5.0\EventExamples.genruntimeconfig.cache

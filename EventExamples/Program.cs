@@ -26,7 +26,7 @@ namespace EventExamples
 
         private static void Program_notificationevent(string message)
         {
-            Console.WriteLine(message + "Kushtia a jabe");
+            Console.WriteLine(message + "Kushtia a jaben");
         }
     }
 }
